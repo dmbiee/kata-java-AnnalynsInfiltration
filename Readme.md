@@ -65,3 +65,7 @@ AnnalynsInfiltration.canFreePrisoner(knightIsAwake, archerIsAwake, prisonerIsAwa
 
 ### Source
 - https://exercism.org/tracks/java/exercises/annalyns-infiltration
+
+## Test runner
+
+![Test Runner](./assets/test-runner.png)
